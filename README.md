@@ -1,2 +1,2 @@
-# hello-word
+# hello-world
 первый репозиторий на GitHub
